@@ -3,7 +3,7 @@
 🔭 I’m currently working on: `Cool Django Project`  
 🌱 I’m learning: `Software development`  
 💬 Ask me about: `Python`, `Django`, `Node.js`, `Angular`, `Deployments`  
-📫 How to reach me: [LinkedIn]([https://...](https://www.linkedin.com/in/varsha-sahani-020149124/)) | [Leetcode]([https://...](https://leetcode.com/u/varsha_sahani/))  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varsha-sahani-020149124/) | [Leetcode](https://leetcode.com/u/varsha_sahani/)
 ⚡ Fun fact: I love debugging as much as I love coffee ☕
 
 ## 🚀 Tech Stack:
@@ -15,7 +15,7 @@
 ## 🧰 Projects
 | Name | Stack | Demo |
 |------|-------|------|
-| **Curio** | Django  | [Live](https://...) |
+| **Curio** | Django  | [Live](https://web-production-dcc9.up.railway.app/) |
 | **Stack-status** | Angular + Node.js | [Live](https://...) |
 
 ## 📈 GitHub Stats
