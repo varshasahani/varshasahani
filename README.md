@@ -20,6 +20,8 @@
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=varshasahani&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=varshasahani&theme=tokyonight)](https://git.io/streak-stats)
 
 
+![Profile views](https://komarev.com/ghpvc/?username=varshasahani&label=Profile%20views&color=0e75b6&style=flat)
 https://varshasahani.github.io/Portfolio/
