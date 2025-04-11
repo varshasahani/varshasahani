@@ -1,17 +1,25 @@
-### Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**varshasahani/varshasahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on: `Cool Django Project`  
+🌱 I’m learning: `Software development`  
+💬 Ask me about: `Python`, `Django`, `Node.js`, `Angular`, `Deployments`  
+📫 How to reach me: [LinkedIn]([https://...](https://www.linkedin.com/in/varsha-sahani-020149124/)) | [Leetcode]([https://...](https://leetcode.com/u/varsha_sahani/))  
+⚡ Fun fact: I love debugging as much as I love coffee ☕
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack:
+- 🌐 Frontend: Angular, HTML, CSS
+- 🛠 Backend: Node.js, Django, Python
+- 🗃️ Database: PostgreSQL, MongoDB
+- ☁️ Deployments: Railway, Heroku, Render
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Projects
+| Name | Stack | Demo |
+|------|-------|------|
+| **Curio** | Django  | [Live](https://...) |
+| **Stack-status** | Angular + Node.js | [Live](https://...) |
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=varshasahani&show_icons=true&theme=radical)
+
+
 https://varshasahani.github.io/Portfolio/
