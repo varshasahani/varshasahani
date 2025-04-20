@@ -23,6 +23,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=varshasahani&theme=tokyonight)](https://git.io/streak-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/varsha_sahani?theme=dark&font=Fira+Code&ext=heatmap)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshasahani&layout=compact)
+
+
 
 
 
