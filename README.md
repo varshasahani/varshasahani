@@ -3,14 +3,17 @@
 🔭 I’m currently working on: `Cool Django Project`  
 🌱 I’m learning: `Software development`  
 💬 Ask me about: `Python`, `Django`, `Node.js`, `Angular`  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/varsha-sahani-020149124/) | [Leetcode](https://leetcode.com/u/varsha_sahani/)
-⚡ Fun fact: I love debugging as much as I love coffee ☕
+📫 How to reach me: `[LinkedIn](https://www.linkedin.com/in/varsha-sahani-020149124/) | [Leetcode](https://leetcode.com/u/varsha_sahani/)`
+
+#[Portfolio](https://varshasahani.github.io/Portfolio/)
 
 ## 🚀 Tech Stack:
 - 🌐 Frontend: Angular, HTML, CSS, Bootstrap, Angular Material, PrimNg
 - 🛠 Backend: Node.js, Django, Python
 - 🗃️ Database: PostgreSQL,
 - ☁️ Deployments: Railway, Heroku
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshasahani&layout=compact)
 
 ## 🧰 Projects
 | Name | Stack | Demo |
@@ -23,11 +26,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=varshasahani&theme=tokyonight)](https://git.io/streak-stats)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/varsha_sahani?theme=dark&font=Fira+Code&ext=heatmap)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshasahani&layout=compact)
+
 
 
 
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=varshasahani&label=Profile%20views&color=0e75b6&style=flat)
-https://varshasahani.github.io/Portfolio/
+
